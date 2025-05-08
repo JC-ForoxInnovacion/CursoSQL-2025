@@ -1,0 +1,6 @@
+/*
+DISTICNT
+*/
+
+SELECT * 
+FROM actor;
