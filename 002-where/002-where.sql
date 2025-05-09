@@ -8,6 +8,8 @@ Operadores
   mayor o igual que >=
 */
 
+USE sakila;
+
 # Busca todos los registros cuyo apellido sea CHASE
 SELECT * 
 FROM `actor` 

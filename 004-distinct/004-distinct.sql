@@ -9,6 +9,7 @@ SELECT DISTINCT
 from actor;
 */
 
+USE sakila;
 
 SELECT DISTINCT `first_name` 
 from actor;

@@ -4,6 +4,8 @@ Muestra el promedio de una columna con valores (TODOS)
 o siguiendo criterios de busqueda, ...
 */
 
+USE sakila;
+
 # Consulta con el número de alquileres, importe total, 
 # promedio (con AVG()) y promedio calculado manualmente.
 

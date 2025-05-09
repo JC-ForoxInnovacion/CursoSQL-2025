@@ -5,6 +5,8 @@ ORDER BY
 
 */
 
+USE sakila;
+
 # Muestra todos los registros ordenados ascendentemente
 # por la columna 'first_name' 
 SELECT *

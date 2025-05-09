@@ -7,6 +7,8 @@ los valores de TODOS los registros de la tabla si no
  existen criterios de búsqueda y/o restricción.
 */
 
+USE sakila;
+
 SELECT SUM(actor_id) FROM `actor`;
 
 

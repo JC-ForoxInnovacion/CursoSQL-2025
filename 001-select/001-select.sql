@@ -1,3 +1,5 @@
+USE sakila;
+
 # Mostrar todas las columnAS (*) y todos los registros de la tabla 'actor'.
 SELECT * FROM `actor`;
 

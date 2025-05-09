@@ -3,6 +3,8 @@ MIN()
 Muestra el valor mínimo de una columna
 */
 
+USE sakila;
+
 SELECT MIN(film_id) FROM film;
 
 # +--------------+
